@@ -1,3 +1,3 @@
-#tittle
+#title
 
 readme
